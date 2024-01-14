@@ -144,5 +144,28 @@ main input{
     z-index: -1;
 }
 
+footer{
+    color: white;
+    width: 80vw;
+    height: 80vh;
+    margin: auto;
+}
+
+footer a{
+    color: white;
+}
+
+.footerlist{
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+footer ul{
+    list-style: none;
+}
+
 
 
